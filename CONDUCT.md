@@ -22,4 +22,4 @@ Enforcement/Feedback#
 The team will collectively address any violations of this code of conduct through open discussion and consensus-building.
 Individuals are encouraged to give and receive feedback constructively. We prefer to use direct communication and encourage honest, respectful, and solution-oriented feedback.
 
-/assets/images/Untitled.png
+<img src="https://github.com/GrantHouch/Group123/blob/main/src/Untitled.png">
