@@ -38,3 +38,6 @@ The team will collectively address any violations of this code of conduct throug
 Individuals are encouraged to give and receive feedback constructively. We prefer to use direct communication and encourage honest, respectful, and solution-oriented feedback.
 
 <img src="https://github.com/GrantHouch/Group123/blob/main/src/Untitled.png">
+<img src="https://github.com/GrantHouch/Group123/blob/main/src/IMG_6838.jpg">
+<img src="https://github.com/GrantHouch/Group123/blob/main/src/IMG_3549.jpg">
+<img src="https://github.com/GrantHouch/Group123/blob/main/src/IMG_0201.jpg">
