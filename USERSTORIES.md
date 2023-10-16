@@ -1,5 +1,5 @@
 # USER STORY 1
-**AS A** general user of smart schedule,
+**AS A** Developer of smart schedule,
 **I WANT TO** login and logout and link my academic calendar to the app
 **NO LATER THAN** December 1st.
 
