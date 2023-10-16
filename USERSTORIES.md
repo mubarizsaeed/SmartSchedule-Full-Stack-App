@@ -10,7 +10,7 @@
 - **GIVEN** my school's Calendar, **WHEN** I link it to smart schedule, **IT WILL** link and display accordingly.
 
 # USER STORY 2
-**AS A** student (high school or college),
+**AS A** highschooler,
 **I WANT TO** import my class schedule into the app,
 **SO THAT** I can view all my classes and assignments in one place.
 
