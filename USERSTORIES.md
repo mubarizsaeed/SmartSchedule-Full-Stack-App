@@ -30,5 +30,15 @@
 - **GIVEN** multiple assignments with different importance levels, **WHEN** I view my reminders, **IT WILL** display them in order of importance.
 - **GIVEN** the completion of an assignment, **WHEN** I mark it as completed, **IT WILL** remove the associated reminder.
 
+# USER STORY 4
+**AS A** parent of a high school student,
+**I WANT TO** receive notifications about my child's upcoming assignments and test dates,
+**SO THAT** I can provide necessary support and encouragement.
+
+**ACCEPTANCE CRITERIA:**
+
+- **GIVEN** my child's class schedule and assignments, **WHEN** they are added to the app, **IT WILL** notify me of upcoming assignments and test dates.
+- **GIVEN** the ability to customize notification preferences, **WHEN** I configure them, **IT WILL** send notifications as per my preferences.
+- **GIVEN** the completion of an assignment or test, **WHEN** my child marks it as completed, **IT WILL** send a notification to inform me about their progress.
 
 
