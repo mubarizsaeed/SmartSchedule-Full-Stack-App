@@ -19,5 +19,15 @@
 - **GIVEN** my class schedule, **WHEN** I import it into the app, **IT WILL** display all my classes and their timings.
 - **GIVEN** assignments, **WHEN** I add them to the app, **IT WILL** show them on the corresponding dates.
 
+**AS A** college student,
+**I WANT TO** set reminders for assignments based on their importance,
+**SO THAT** I can effectively prioritize and manage my workload.
+
+**ACCEPTANCE CRITERIA:**
+
+- **GIVEN** an assignment's importance level, **WHEN** I add it to the app, **IT WILL** allow me to set reminders based on its importance.
+- **GIVEN** multiple assignments with different importance levels, **WHEN** I view my reminders, **IT WILL** display them in order of importance.
+- **GIVEN** the completion of an assignment, **WHEN** I mark it as completed, **IT WILL** remove the associated reminder.
+
 
 # TEST
