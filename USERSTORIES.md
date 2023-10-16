@@ -19,6 +19,7 @@
 - **GIVEN** my class schedule, **WHEN** I import it into the app, **IT WILL** display all my classes and their timings.
 - **GIVEN** assignments, **WHEN** I add them to the app, **IT WILL** show them on the corresponding dates.
 
+# USER STORY 3
 **AS A** college student,
 **I WANT TO** set reminders for assignments based on their importance,
 **SO THAT** I can effectively prioritize and manage my workload.
