@@ -19,13 +19,21 @@
 
 **Team Action:** We will conduct research on our competitors to analyze their feature sets and explore opportunities for innovation within our own application.
 
-**Observation 1: (Mubariz)**
+**Observation 3: (Mubariz)**
 
 **Observation Statement:** The majority of users prefer a darker app aesthetic.
 
 **Supporting Data:** 14 out of 18 users (77%) responded that they prefer a darker app aesthetic.
 
 **Team Action:** Design the app with a darker app aesthetic by default. Allow users to customize the app aesthetic to their liking if desired.
+
+**Observation 4: (Amer)**
+
+**Observation Statement:** A strong preference for assignment reminders based on importance is evident among survey participants.
+
+**Supporting Data:** 13 out of 17 respondents (76%) expressed a desire for assignment reminders based on importance, while 4 respondents (24%) did not.
+
+**Team Action:** Consider implementing assignment reminders based on importance in the product to align with the preferences of the majority of surveyed users. Additionally, explore options to provide customizable settings to cater to diverse user preferences.
 
 
 
