@@ -24,6 +24,22 @@
                 }
             },
             "assets": {
+                "65120800aaa9ea5ed486dbda": {
+                    "externalStorageType": "GCS",
+                    "_id": "65120800aaa9ea5ed486dbda",
+                    "size": "66191",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "mubz-logo.png",
+                    "backendURI": "/project/6509ab4829e92d67b6aa875f/getasset/65120800aaa9ea5ed486dbda",
+                    "name": "mubz-logo.png",
+                    "externalName": "users/64f9cfd25b362b920a0abf4e/projects/6509ab4829e92d67b6aa875f/assets/65120800aaa9ea5ed486dbda",
+                    "createdAt": "2023-09-25T22:21:52.983Z",
+                    "updatedAt": "2023-09-25T22:21:52.983Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfd25b362b920a0abf4e/projects/6509ab4829e92d67b6aa875f/assets/65120800aaa9ea5ed486dbda?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231022T213132Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5d63ed88d853e5170ecf3196f0ad3d0cc27ee5c259b83a8a023ba1280c8566233c94e0d3df8d99b4810eeb8804ab6e657cde9f9018dc227dd1a9abbf446ebe5ee0bf73f649d27167d1a407aa92d044658132efbeebd197670427b6dbb1104bbe4553bae2b5fe7f34db9dfcb2702d0e79032b1643d89ec72da492e2cd8058e3a9b76a6ee00ebfc2915eb7a6610bde476be878bb0adcab60011c47cfa6ebf4cf80803a7e17287d83fb195c9461ea524081099eed4335b6f4393d4da9de394e722972f7426f0c6a6635ece6b526323087d606288c07834a35fa7c976f6116da5cef4010b71b0aef343448d65b681caecd1197770d53795c6820c76ab17a5f12b9cb",
+                    "signedUrlExpirationTime": 1698183092434
+                },
                 "6535986eee33872de093af61": {
                     "externalStorageType": "GCS",
                     "_id": "6535986eee33872de093af61",
@@ -346,36 +362,10 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "3",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {
-                "7076fa6b-673f-4e56-b494-abda0e276023": {
-                    "scope": "APP",
-                    "name": "CurrentlySigningup",
-                    "screenId": "bd82ffc0-ac36-40f1-aa9c-39a301a344f1"
-                },
-                "21211652-0626-4a68-8233-9a49993a6dc5": {
-                    "scope": "STORED",
-                    "name": "email",
-                    "screenId": "bd82ffc0-ac36-40f1-aa9c-39a301a344f1"
-                },
-                "27e6672e-20aa-4b98-960d-c2beaeaf0910": {
-                    "scope": "STORED",
-                    "name": "password",
-                    "screenId": "bd82ffc0-ac36-40f1-aa9c-39a301a344f1"
-                },
-                "7c35f9f2-10f5-42d3-9167-180ecae477d8": {
-                    "scope": "APP",
-                    "name": "Session email",
-                    "screenId": "bd82ffc0-ac36-40f1-aa9c-39a301a344f1"
-                },
-                "05a573bb-cc18-4602-b508-0fcb0cb11c58": {
-                    "scope": "APP",
-                    "name": "user ID",
-                    "screenId": "bd82ffc0-ac36-40f1-aa9c-39a301a344f1"
-                }
-            },
+            "variables": {},
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
