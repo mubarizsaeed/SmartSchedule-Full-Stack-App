@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
-    "5nROJkJzkpPNdNrCPRSsZKtXyZz1": {
+    "item1": {
       "type": "object",
       "properties": {
         "name": {
@@ -11,7 +11,7 @@
       },
       "required": ["name"]
     },
-    "HAGztuK55bPkYliybAVA4NeS5V63": {
+    "item2": {
       "type": "object",
       "properties": {
         "name": {
@@ -20,7 +20,7 @@
       },
       "required": ["name"]
     },
-    "W9a56f1emKcrR7hfY9Wji3RRsbP2": {
+    "item3": {
       "type": "object",
       "properties": {
         "name": {
@@ -29,7 +29,7 @@
       },
       "required": ["name"]
     },
-    "aernj4WOh1WmBRa3VZ3GvOelJgc2": {
+    "item4": {
       "type": "object",
       "properties": {
         "name": {
@@ -39,10 +39,6 @@
       "required": ["name"]
     }
   },
-  "required": [
-    "5nROJkJzkpPNdNrCPRSsZKtXyZz1",
-    "HAGztuK55bPkYliybAVA4NeS5V63",
-    "W9a56f1emKcrR7hfY9Wji3RRsbP2",
-    "aernj4WOh1WmBRa3VZ3GvOelJgc2"
-  ]
+  "required": ["item1", "item2", "item3", "item4"]
 }
+
