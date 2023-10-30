@@ -4,10 +4,9 @@
 # SmartSchedule App Metric Collection
 
 ## Happiness:
-- **Collecting Metrics:**
-    1. Satisfaction Score
-    2. Average App Store Rating
-    3. Support Request Resolution Time
+
+- **User Surveys:** Periodically gather user feedback on satisfaction, ease of use, and features.
+- **App Store Reviews:** Monitor and analyze user ratings and comments.
 
 ## Engagement:
 - **Collecting Metrics:**
