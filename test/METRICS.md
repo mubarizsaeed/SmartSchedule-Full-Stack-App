@@ -10,9 +10,12 @@
 
 ## Engagement:
 - **Collecting Metrics:**
-    1. DAU Growth Rate
-    2. Task Completion Frequency
-    3. Feature Usage Rate
+    1. Firebase Analytics and backend data : Implement Firebase Analytics within the SmartSchedule app to automatically track user engagement. Set up data collection in the        Firebase backend to capture user activity, specifically tracking user logins and interactions within the app.
+    2. Daily Tracked Events: Employ event tracking within Firebase Analytics to log daily app opens or any user interactions as an active user.
+    3.Retrieve Data: Retrieve daily active user counts by querying the Firebase backend data to obtain the number of unique users who actively engage with the app on a            daily basis.
+
+- This process involves the combination of Firebase Analytics for real-time user engagement tracking within the app and utilizing the Firebase backend to process and retrieve the data that indicates daily active user counts.
+    
 
 ## Adoption:
 - **Collecting Metrics:**
