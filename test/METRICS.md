@@ -22,9 +22,8 @@
 
 ## Retention:
 - **Collecting Metrics**
-    1. Churn Rate: Churn rate measures the percentage of customers who stop using a service during a specific period. To collect this data, you monitor customer attrition within the A/B test period. A lower churn rate in Group B suggests that the presence of the RAM Logo positively impacts customer retention.
-    2. Retention Rate: Retention rate calculates the percentage of customers who continue using a service over a set time. You can collect this data by analyzing user activity during the A/B test duration. A higher retention rate in Group B indicates that the RAM Logo contributes to improved user retention.
-    3. Push Notification Click-Through Rate: Push notification click-through rate (CTR) assesses the effectiveness of push notifications in driving user engagement. Tracking how many users click on push notifications in both groups provides insights. A higher CTR in Group B signifies that the RAM Logo influences user engagement with push notifications.
+    1. Churn & Retention Rate: We will utilize Google Analytics and Firebase to track user engagement and login frequency, enabling us to calculate churn rate and retention rate for both control (Group A) and experimental (Group B) users.
+    2. Push Notification Click-Through Rate: To measure push notification click-through rate, we will integrate Firebase Cloud Messaging (FCM) with Firebase Analytics. This integration will allow us to track the delivery and engagement of push notifications in both groups.
 
 ## Task Success:
 - **Collecting Metrics:**
