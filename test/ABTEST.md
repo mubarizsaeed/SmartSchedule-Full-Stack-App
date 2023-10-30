@@ -1,5 +1,7 @@
 **A/B Test Name:** School RAM Logo on Home Screen
+
 **User Story Number:** US1
+
 **Metric (from the HEART grid):** Engagement
 
 **Hypothesis:**
