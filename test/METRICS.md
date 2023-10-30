@@ -30,6 +30,15 @@
 
 ## Task Success:
 - **Collecting Metrics:**
-    1. Task Completion Rate
-    2. Error Rate
-    3. Feature Usage Analysis
+Method: Utilize Firebase backend data and internal app analytics
+
+    1. Google Analytics Event Tracking: Implement event tracking in Google Analytics to monitor user behaviors related to assignment completion close to or after deadlines.
+    2. Push Notifications and Reminders: Use Firebase Cloud Messaging to send reminders or notifications to users close to or after assignment deadlines, monitoring their         response and subsequent completion.
+
+-By tracking assignment completion timestamps, using Google Analytics for event tracking, and employing reminders through Firebase Cloud Messaging, the SmartSchedule app can gauge how well users adhere to assignment deadlines.
+
+
+
+
+
+
