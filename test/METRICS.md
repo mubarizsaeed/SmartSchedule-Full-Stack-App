@@ -17,9 +17,9 @@
 
 ## Adoption:
 - **Collecting Metrics:**
-    1. New User Registration Rate
-    2. Onboarding Completion Rate
-    3. First Assignment Added Rate
+    1. New User Registration Rate: Use Google Analytics or Firebase Analytics to track the number of new users who sign up for your app
+    2. Onboarding Completion Rate: Use Google Analytics or Firebase Analytics to track the number of users who complete the onboarding process.
+    3. First Assignment Added Rate: Use Google Analytics or Firebase Analytics to track the number of users who add their first assignment.
 
 ## Retention:
 - **Collecting Metrics**
