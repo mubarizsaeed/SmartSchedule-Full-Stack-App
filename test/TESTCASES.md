@@ -2,17 +2,17 @@
 
 ## Grant (User story: #)
 
--**Link**: <put link here>.
+**Link**: 
 
 ## Mubariz (User story: #)
 
--**Link**: <put link here>.
+**Link**: 
 
 ## Dan (User story: #)
 
--**Link**: <put link here>.
+**Link**: 
 
 ## Amer (User story: #)
 
--**Link**: <put link here>.
+**Link**: 
 
