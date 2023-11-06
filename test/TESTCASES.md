@@ -2,7 +2,7 @@
 
 ## Grant (User story: #1)
 
-**Link**: 
+**Link**: https://docs.google.com/presentation/d/1-pzMKKbcf9-Wp9KlDSg6Ho-Kmf21PxCwxyvwRTu9qUM/edit?usp=sharing
 
 ## Mubariz (User story: #)
 
