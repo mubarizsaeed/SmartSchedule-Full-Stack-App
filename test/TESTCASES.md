@@ -8,9 +8,9 @@
 
 **Link**: 
 
-## Dan (User story: #)
+## Dan (User story: #2)
 
-**Link**: 
+**Link**:https://docs.google.com/presentation/d/1oJ2-25w9WIr3Ao9R8WVgLaVAzlVJ9YFEFu21LJQGlJE/edit?usp=sharing 
 
 ## Amer (User story: #)
 
