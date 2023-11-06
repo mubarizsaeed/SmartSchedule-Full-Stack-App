@@ -1,6 +1,6 @@
 # SmartSchedule Test Cases 
 
-## Grant (User story: #)
+## Grant (User story: 1)
 
 **Link**: 
 
