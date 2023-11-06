@@ -6,7 +6,7 @@
 
 ## Mubariz (User story: #)
 
-**Link**: 
+**Link**:  https://docs.google.com/presentation/d/1PpySa5YDLRmlERATX5BbAT5MK0TCT8VeXHlPuSYGp7w/edit?usp=sharing
 
 ## Dan (User story: #2)
 
