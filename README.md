@@ -1,6 +1,13 @@
 # Smart Schedule - Group123
 Github Repo for 305 Project SmartSchedule 
 
-Grant , Mubariz , Amer, Daniel
+## By: Grant , Mubariz , Amer, Daniel
 
-In the README.md file on the top level of your team’s repo. Give the information necessary for people (just the internal testers for now) to find your app on the Google Play store.
+## How to find and test our app (For internal testers) : 
+Please select this link on an Android device to download and test our app internally : 
+https://play.google.com/apps/test/edu.uri.granthouch.smartschedulewipcopy1/3
+
+## Common issues and Troubleshooting if internal download is not working : 
+ - Make sure internal sharing is on in the Google Play store of your android device whether it be an emulator or actual physcial device
+ -  Tap Menu. > Settings. In the "About" section, tap the Play Store version 7 times. After the Internal app sharing setting appears, tap the switch to turn on internal app sharing. Tap Turn on.
+   
