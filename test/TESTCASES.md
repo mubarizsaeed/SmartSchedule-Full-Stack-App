@@ -26,5 +26,5 @@
 
 ## User Story 8
 
-**Link** : 
+**Link** : https://docs.google.com/presentation/d/15hPzkmqiwE5k4IBCtbvbIYNirTN6B6LQJ5xGAnBZ_oA/edit?usp=sharing
 
