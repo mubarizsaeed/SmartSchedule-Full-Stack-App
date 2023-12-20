@@ -4,7 +4,7 @@
 
 **Link**: https://docs.google.com/presentation/d/1-pzMKKbcf9-Wp9KlDSg6Ho-Kmf21PxCwxyvwRTu9qUM/edit?usp=sharing
 
-## Mubariz (User story: #)
+## Mubariz (User story: #3)
 
 **Link**:  https://docs.google.com/presentation/d/1PpySa5YDLRmlERATX5BbAT5MK0TCT8VeXHlPuSYGp7w/edit?usp=sharing
 
@@ -15,4 +15,16 @@
 ## Amer (User story: 4)
 
 **Link**:https://docs.google.com/presentation/d/1fnAAYUeuPriZsbHmWKSAJJZV4_iAvUgGcd5d0qDsiO0/edit?usp=sharing
+
+## User Story 5
+
+**Link** : 
+
+## User Story 7
+
+**Link** : 
+
+## User Story 8
+
+**Link** : 
 
