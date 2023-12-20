@@ -22,7 +22,7 @@
 
 ## User Story 7
 
-**Link** : 
+**Link** : https://docs.google.com/presentation/d/1XnQefHDdG3nhVtsvDO-4qHO263mWo-SLR_taGnaTCB8/edit?usp=sharing
 
 ## User Story 8
 
