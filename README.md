@@ -1,4 +1,4 @@
-# Smart Schedule - Group123 , By: Grant , Mubariz , Amer, Daniel
+# Smart Schedule App - Group123 , By: Grant , Mubariz , Amer, Daniel
 
 ## How to find and test our app (For internal testers) : 
 Please select this link on an Android device to download and test our app internally : 
