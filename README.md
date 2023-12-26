@@ -3,7 +3,7 @@
 # SmartSchedule - All-in-One Calendar App
 <img src="https://github.com/GrantHouch/Group123/blob/main/images/Calender_Logo_Refined.png" alt="Calendar Logo" width="200"/>
 
-Welcome to the SmartSchedule GitHub Wiki! SmartSchedule is a comprehensive all in one schedule application designed to streamline your scheduling needs. Below, you'll find information on installation, features, usage instructions, and how to contribute to the project.
+Welcome to the SmartSchedule GitHub! SmartSchedule is a comprehensive all in one schedule application designed to streamline your scheduling needs. A key feature I implemented is a web scraper using Playwright to automatically pull in event data from brighspace calender.  You'll find more information on this web scraper feature along with details on installation, other app features, usage instructions, and how to contribute to the project withing the Wiki.
 
 
 ## How to find and test our app (For internal testers) : 
